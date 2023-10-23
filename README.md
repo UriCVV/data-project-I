@@ -14,6 +14,8 @@ This repository contains Python code for analyzing a dataset related to shark at
     - [Question 5: What time of the day do more attacks occur?](#question-5-what-time-of-the-day-do-more-attacks-occur)
     - [Question 6: What range of age is the most attacked?](#question-6-what-range-of-age-is-the-most-attacked)
     - [Question 7: What are the most afected countries](#question-7-what-are-the-most-afetcted-countries)
+5. [Key Findings](#key-findings)
+6. [Conclusion](#conclusion)
 
 ## Overview
 In this exercise, a dataset related to [worldwide shark attacks](https://www.kaggle.com/datasets/teajay/global-shark-attacks/discussion) was used for analysis. The data was cleaned and processed to extract useful insights. Various questions about shark attacks were addressed using data visualization techniques.
@@ -31,7 +33,7 @@ The repository is organized with the following directory structure:
   - `main.py`: The main Python script for running the analysis. (**Under construction...** Could not automatize the cleaning and vizualization proces, lack of time)
 
 ## Dataset
-The dataset used for this analysis contains information about shark attacks, including details such as the date of the attack, location, activities at the time of the attack, gender of the victims, age, and more. The data goes from year 1543 to 2018. The data was cleaned to remove missing values and ensure it was suitable for analysis.
+This analysis focuses on a dataset of shark attacks, aiming to gain insights into the patterns and trends surrounding shark attacks. The dataset spans from the year 1543 to 2018 and provides valuable information about the victims, activities at the time of the attacks, mortality rates, time of day, geographical locations and more...
 
 ## Questions and Analysis
 ### Question 1: Are sharks gender discriminative?
@@ -68,6 +70,30 @@ A countplot was created to visualize the age distribution of shark attack victim
 To answer this question, a map plot was created to visualize the distribution of shark attacks by country. This analysis provides insights into which countries have experienced the most shark attacks. In the `visualization.ipynb` file on source folder there's an interactive map at the end made with `plotly.express` package
 
 ![Shark Attack Gender Distribution](images/attacks_per_country.png)
+
+## Key Findings
+
+### 1. Demographics of Victims
+   - **Mostly Men Suffer from Shark Attacks:** The data shows that the majority of shark attack victims are males. This suggests that men are more prone to shark encounters than women.
+
+   - **Age of Victims:** The age group most commonly affected by shark attacks falls within the range of 11 to 30 years old. This demographic appears to be more at risk compared to other age groups.
+
+### 2. Activities during Attacks
+   - **Surfing and Swimming Activities:** The dataset reveals that most shark attacks occur during surfing and swimming activities. This finding indicates that these water-based activities are associated with a higher risk of shark encounters.
+
+   - **Time of Day:** The majority of reported attacks happen between 8:00 am and 5:00 pm. This could be due to the increased presence of people in the water during daylight hours, making encounters more likely.
+
+### 3. Mortality Rate
+   - **Low Mortality Rate:** Despite the fear and sensationalism surrounding shark attacks, the dataset indicates that the mortality rate for these incidents is relatively low. This suggests that while shark attacks can be traumatic and life-threatening, they do not often result in fatalities.
+
+### 4. Historical Trends
+   - **Increase in Shark Attacks:** Shark attacks have increased significantly over the years, with a notable surge between 1900 and 2000. This rise may be attributed to advancements in technology and improved data collection methods. It's important to note that the increase in reported attacks does not necessarily mean that the actual number of shark attacks has increased but rather the number of reported incidents.
+
+### 5. Geographical Distribution
+   - **Countries with the Most Reported Shark Attacks:** According to the dataset, the top three countries with the highest number of reported shark attacks from 1543 to 2018 are the USA, Australia, and South Africa, in descending order. This suggests that these countries are more prone to shark encounters, which could be influenced by their coastal geography and popular water-based activities.
+
+## Conclusion
+In conclusion, the analysis of the shark attacks dataset reveals that shark attacks predominantly affect males, with surfing and swimming being the most common activities at the time of the attacks. Despite the fear surrounding shark encounters, the mortality rate is relatively low. The increase in reported attacks over the years can be attributed to advancements in technology and data collection. Finally, the geographical distribution of attacks highlights that the USA, Australia, and South Africa have experienced the highest number of reported shark attacks. Understanding these patterns and trends can help in the development of strategies for shark attack prevention and mitigation in high-risk areas.
 
 ## P.S.
 The Python code used to generate these visualizations and analyze the data can be found in the Jupyter Notebook or Python script associated with this repository.
