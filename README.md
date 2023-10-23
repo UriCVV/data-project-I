@@ -13,14 +13,14 @@ This repository contains Python code for analyzing a dataset related to shark at
     - [Question 4: Do they increase or decrease along the years?](#question-4-do-they-increase-or-decrease-along-the-years)
     - [Question 5: What time of the day do more attacks occur?](#question-5-what-time-of-the-day-do-more-attacks-occur)
     - [Question 6: What range of age is the most attacked?](#question-6-what-range-of-age-is-the-most-attacked)
-    - [Question 7: What are the most afected countries?](#question-7-what-are-the-most-afetcted-countries)
+    - [Question 7: What are the most affected countries?](#question-7-what-are-the-most-affected-countries)
 5. [Key Findings](#key-findings)
-    - [Demographics of Victims](#demographics-of-victims)
-    - [Activities during Attacks](#activities-during-attacks)
-    - [Mortality Rate](#mortality-rate)
-    - [Historical Trends](#historical-trends)
-    - [Geographical Distribution](#geographical-distribution)
-6. [Conclusion](#conclusion)
+    - [1. Demographics of Victims](#1-demographics-of-victims)
+    - [2. Activities during Attacks](#2-activities-during-attacks)
+    - [3. Mortality Rate](#3-mortality-rate)
+    - [4. Historical Trends](#4-historical-trends)
+    - [5. Geographical Distribution](#5-geographical-distribution)
+6. [Conclusion](#1-conclusion)
 
 ## Overview
 In this exercise, a dataset related to [worldwide shark attacks](https://www.kaggle.com/datasets/teajay/global-shark-attacks/discussion) was used for analysis. The data was cleaned and processed to extract useful insights. Various questions about shark attacks were addressed using data visualization techniques.
