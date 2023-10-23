@@ -71,3 +71,5 @@ To answer this question, a map plot was created to visualize the distribution of
 
 ## P.S.
 The Python code used to generate these visualizations and analyze the data can be found in the Jupyter Notebook or Python script associated with this repository.
+
+[Link to the presentation ](https://www.canva.com/design/DAFyHXYu29w/IWmQt43FoKd39QzxxvzV5A/edit?utm_content=DAFyHXYu29w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
