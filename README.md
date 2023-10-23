@@ -30,10 +30,8 @@ The repository is organized with the following directory structure:
   - `visualization.ipynb`: Jupyter notebook for data visualization.
   - `main.py`: The main Python script for running the analysis. (**Under construction...** Could not automatize the cleaning and vizualization proces, lack of time)
 
-
-
 ## Dataset
-The dataset used for this analysis contains information about shark attacks, including details such as the date of the attack, location, activities at the time of the attack, gender of the victims, age, and more. The data was cleaned to remove missing values and ensure it was suitable for analysis.
+The dataset used for this analysis contains information about shark attacks, including details such as the date of the attack, location, activities at the time of the attack, gender of the victims, age, and more. The data goes from year 1543 to 2018. The data was cleaned to remove missing values and ensure it was suitable for analysis.
 
 ## Questions and Analysis
 ### Question 1: Are sharks gender discriminative?
@@ -71,4 +69,5 @@ To answer this question, a map plot was created to visualize the distribution of
 
 ![Shark Attack Gender Distribution](images/attacks_per_country.png)
 
+## P.S.
 The Python code used to generate these visualizations and analyze the data can be found in the Jupyter Notebook or Python script associated with this repository.
