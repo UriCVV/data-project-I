@@ -35,7 +35,7 @@ The dataset used for this analysis contains information about shark attacks, inc
 
 ## Questions and Analysis
 ### Question 1: Are sharks gender discriminative?
-To answer this question, a countplot was created to visualize the distribution of shark attacks by gender. The analysis provides insights into whether shark attacks show a gender bias. Of course they don't... But this could tell us that man do more sea activities than woman
+To answer this question, a countplot was created to visualize the distribution of shark attacks by gender. The analysis provides insights into whether shark attacks show a gender bias. Of course they don't... But this could mean that men provoke more shark attacks than women
 
 ![Shark Attack Gender Distribution](images/shark_attacks_gender.png)
 
