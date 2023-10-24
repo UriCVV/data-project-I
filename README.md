@@ -73,7 +73,7 @@ A countplot was created to visualize the age distribution of shark attack victim
 ![Shark Attack Gender Distribution](images/shark_attacks_victim_ages.png)
 
 ### Question 7: What are the most affected countries?
-To answer this question, a map plot was created to visualize the distribution of shark attacks by country. This analysis provides insights into which countries have experienced the most shark attacks. In the `visualization.ipynb` file on source folder there's an interactive map at the end made with `plotly.express` package
+To answer this question, a map plot was created to visualize the distribution of shark attacks by country. This analysis provides insights into which countries have experienced the most shark attacks. In the `visualization.ipynb` file in source folder there's an interactive map at the end made with `plotly.express` module.
 
 ![Shark Attack Gender Distribution](images/attacks_per_country.png)
 
