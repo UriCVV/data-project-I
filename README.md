@@ -21,7 +21,7 @@ This repository contains Python code for analyzing a dataset related to shark at
     - [4. Historical Trends](#4-historical-trends)
     - [5. Geographical Distribution](#5-geographical-distribution)
 6. [Conclusion](#1-conclusion)
-7. [Links](#links)
+7. [Links](#links-resources-and-tools)
 
 ## Overview
 In this exercise, a dataset related to [worldwide shark attacks](https://www.kaggle.com/datasets/teajay/global-shark-attacks/discussion) was used for analysis. The data was cleaned and processed to extract useful insights. Various questions about shark attacks were addressed using data visualization techniques.
@@ -101,9 +101,14 @@ To answer this question, a map plot was created to visualize the distribution of
 ## Conclusion
 In conclusion, the analysis of the shark attacks dataset reveals that shark attacks predominantly affect males, with surfing and swimming being the most common activities at the time of the attacks. Despite the fear surrounding shark encounters, the mortality rate is relatively low. The increase in reported attacks over the years can be attributed to advancements in technology and data collection. Finally, the geographical distribution of attacks highlights that the USA, Australia, and South Africa have experienced the highest number of reported shark attacks. Understanding these patterns and trends can help in the development of strategies for shark attack prevention and mitigation in high-risk areas.
 
-## Links
-[Link to the presentation ](https://www.canva.com/design/DAFyHXYu29w/IWmQt43FoKd39QzxxvzV5A/edit?utm_content=DAFyHXYu29w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-[worldwide shark attacks dataset](https://www.kaggle.com/datasets/teajay/global-shark-attacks/discussion)
+## Links. Resources and tools
+[Link to the presentation ](https://www.canva.com/design/DAFyHXYu29w/IWmQt43FoKd39QzxxvzV5A/edit?utm_content=DAFyHXYu29w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)<br>
+[worldwide shark attacks dataset](https://www.kaggle.com/datasets/teajay/global-shark-attacks/discussion)<br>
+[Pandas](https://pandas.pydata.org/)<br>
+[Matplotlib](https://matplotlib.org/stable/)<br>
+[Seaborn](https://seaborn.pydata.org/)<br>
+[Plotly express](https://plotly.com/)<br>
+[Warning python module](https://docs.python.org/3/library/warnings.html)
 
 ## P.S.
 The Python code used to generate these visualizations and analyze the data can be found in the Jupyter Notebook or Python script associated with this repository.
